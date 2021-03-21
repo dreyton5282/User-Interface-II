@@ -19,10 +19,14 @@ font-size: 100%;
 font: inherit;  
 vertical-align: baseline;  
 }
-.flex {
+header nav {
     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
 }
 h1 {
     font-size: 50px;
-    color: blue;
+    color: #00a1ff;
 }
