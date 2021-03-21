@@ -59,9 +59,12 @@ h1 {
     flex-wrap: wrap;
 }
 .mypicture {
-
+    border: solid black 10px;
 }
-.myinformation {
-
+.myinformation p {
+    border: solid black 1px;
+    text-align: center;
 }
-.item
+.item {
+    border: solid black 10px;
+}
