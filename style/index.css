@@ -22,3 +22,7 @@ vertical-align: baseline;
 .flex {
     display: flex;
 }
+h1 {
+    font-size: 50px;
+    color: blue;
+}
