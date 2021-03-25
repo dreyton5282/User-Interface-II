@@ -60,6 +60,7 @@ h1 {
 }
 .mypicture {
     border: solid black 10px;
+    
 }
 .myinformation p {
     border: solid black 1px;
@@ -67,4 +68,11 @@ h1 {
 }
 .item {
     border: solid black 10px;
+}
+button {
+    color: white;
+    background-color: #00a1ff;
+    font-size: 16px;
+    font-family: sans-serif;
+    padding: 10px;
 }
