@@ -62,6 +62,7 @@ h1 {
     width: 750px;
     height: 550px;
     display: inline-block;
+    margin-top: 50px;
 }
 .my-image img {
     height: 100%;
@@ -69,6 +70,18 @@ h1 {
 }
 .my-info {
     text-align: center;
+    padding-top: 300px;
+    padding-left: 100px;
+    
+}
+.my-items {
+    display: flex;
+}
+.my-items .item {
+    border: solid black 3px;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
 }
 footer {
     text-align: center;
