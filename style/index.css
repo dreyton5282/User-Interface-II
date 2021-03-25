@@ -53,26 +53,23 @@ h1 {
     color: #005dff;
     margin: 0px 0px 0px 20px;
 }
-.flex {
+.intro {
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
+    justify-content: center;
 }
-.mypicture {
-    border: solid black 10px;
-    
+.my-image {
+    width: 750px;
+    height: 550px;
+    display: inline-block;
 }
-.myinformation p {
-    border: solid black 1px;
+.my-image img {
+    height: 100%;
+    width: 100%;
+}
+.my-info {
     text-align: center;
 }
-.item {
-    border: solid black 10px;
-}
-button {
-    color: white;
-    background-color: #00a1ff;
-    font-size: 16px;
-    font-family: sans-serif;
-    padding: 10px;
+footer {
+    text-align: center;
 }
